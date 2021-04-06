@@ -1,0 +1,52 @@
+h1 {
+ color: red;
+}
+
+p{
+ color: green;
+}
+
+.img
+{
+display: inline-block;
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+.img2
+{
+display: inline-block;
+margin: 0px;
+padding: 0px;
+}
+
+#right {    
+ text-align: right;
+ padding-right: 180px;  
+ 
+
+ }  
+ #center {    
+ text-align: center; 
+ }  
+
+ #left{    
+ text-align: left;
+ padding-left: 100px;  
+ 
+ width: 33.33%;
+ 
+ }
+
+ .almostbutton {
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #333333;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #333333;
+ }
+
+ body{
+  background: yellow;
+ }
