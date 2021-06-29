@@ -100,8 +100,32 @@ nav a:hover{
       flex: 1 1 0;
     }
 
+    .navigation{
+      display: block;
+      height: 20px;
+      width: 100%;
 
+      background-image: url(./htmlimg/threelines.png);
+      
+      cursor: pointer;
+    }
 
- }
+    header nav ul {
+      overflow: hidden;
+      height: 0;
+    }
+
+    header nav ul.open {
+      height: auto;
+    }
+
+    header nav ul li{
+      float:none;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+
+    }
+  }
    
  
