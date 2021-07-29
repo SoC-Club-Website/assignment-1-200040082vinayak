@@ -104,9 +104,10 @@ nav a:hover{
       display: block;
       height: 20px;
       width: 100%;
-
-      background-image: url(./htmlimg/threelines.png);
-      
+      background-image: url(../htmlimg/threelinesnew.png) ;
+      background-repeat: no-repeat;
+      background-size: 60px 40px ;
+      background-position-x: 98%;
       cursor: pointer;
     }
 
